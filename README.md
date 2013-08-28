@@ -28,9 +28,8 @@ Web Component wrapper for Google Analytics code using Polymer.
 
 Attribute  | Options                   | Default             | Description
 ---        | ---                       | ---                 | ---
-`domain`   | *string*                  | `example.com`       | Lorem ipsum
-`bar`      | `abc`, `def`, `ghi` 	   | `foo`               | Lorem ipsum
-`height`   | *int*                     | `100`               | Lorem ipsum
+`domain`   | *string*                  | `example.com`       | Your website domain
+`code`     | *string* 				   | `UA-XXXXX-Y`        | Your tracking code
 
 
 > See Google Analytics [official documentation](https://support.google.com/analytics/?hl=pt-BR&utm_medium=et&utm_campaign=pt-BR&utm_source=ww-pt_BR-et-b2bfooter_analytics).
