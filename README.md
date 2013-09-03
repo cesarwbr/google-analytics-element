@@ -11,7 +11,7 @@ Web Component wrapper for Google Analytics code using Polymer.
 1. Import Web Components' polyfill:
 
 	```html
-	<script src="lib/polymer.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.0.20130816/polymer.min.js"></script>
 	```
 
 2. Import Custom Element:
@@ -40,7 +40,6 @@ Attribute  | Options                   | Default             | Description
 
 * v0.0.2 August 29, 2013
 	* Changing Polymer API version and custom element name
-
 * v0.0.1 August 28, 2013
 	* Started project using [boilerplate-element](https://github.com/customelements/boilerplate-element)
 
