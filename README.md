@@ -38,6 +38,9 @@ Attribute  | Options                   | Default             | Description
 
 ## History
 
+* v0.0.3 August 29, 2013
+	* Changing to CDN Polymer API version
+
 * v0.0.2 August 29, 2013
 	* Changing Polymer API version and custom element name
 * v0.0.1 August 28, 2013
