@@ -4,7 +4,7 @@ Web Component wrapper for Google Analytics code using Polymer.
 
 > Maintained by [Cesar William](https://github.com/cesarwbr).
 
-![Test on Google Analytics](https://www.dropbox.com/s/vyul03rgks3nz74/test-google-analytics.png)
+![Test on Google Analytics](http://f.cl.ly/items/3R1p2h2B462z1v0J0X3v/test-google-analytics.png)
 
 ## Usage
 
