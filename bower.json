@@ -1,0 +1,27 @@
+{
+  "name": "google-analytics",
+  "version": "0.0.3",
+  "homepage": "https://github.com/cesarwbr/google-analytics-element",
+  "authors": [
+    "Cesar William <cesarwbr@gmail.com>"
+  ],
+  "description": "Web Component wrapper for Google Analytics code using Polymer",
+  "main": "src/google-analytics.html",
+  "keywords": [
+    "polymer",
+    "google",
+    "analytics",
+    "google",
+    "analytics",
+    "google-analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.1"
+  }
+}
