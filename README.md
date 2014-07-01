@@ -46,6 +46,9 @@ Attribute  | Options                   | Default             | Description
 
 ## History
 
+* v0.0.4 July 1, 2014
+	* Add bower
+
 * v0.0.3 August 29, 2013
 	* Changing to CDN Polymer API version
 
