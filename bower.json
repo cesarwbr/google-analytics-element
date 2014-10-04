@@ -1,6 +1,6 @@
 {
   "name": "google-analytics",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/cesarwbr/google-analytics-element",
   "authors": [
     "Cesar William <cesarwbr@gmail.com>"
@@ -22,6 +22,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~0.3.1"
+    "polymer": "Polymer/polymer#master"
   }
 }
