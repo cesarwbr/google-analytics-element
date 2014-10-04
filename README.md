@@ -8,24 +8,18 @@ Web Component wrapper for Google Analytics code using Polymer.
 
 ## Installation
 
-Using [Bower](http://bower.io), run:
+### Using [Bower](http://bower.io):
+
+1. Run this command from your project root:
 
 ```shell
 bower install google-analytics
 ```
 
-## Usage
-
-1. Import Web Components' polyfill:
+2. Import the component by adding this to your HTML file:
 
 	```html
-	<script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.1.4/platform.js"></script>
-	```
-
-2. Import Custom Element:
-
-	```html
-	<link rel="import" href="src/google-analytics.html">
+	<link rel="import" href="bower_components/google-analytics/google-analytics.html">
 	```
 
 3. Start using it!
@@ -39,12 +33,15 @@ bower install google-analytics
 Attribute  | Options                   | Default             | Description
 ---        | ---                       | ---                 | ---
 `domain`   | *string*                  | `example.com`       | Your website domain
-`code`     | *string* 				   | `UA-XXXXX-Y`        | Your Google Analytics tracking code
+`code`     | *string* 				   			 | `UA-XXXXX-Y`        | Your Google Analytics tracking code
 
 
 > See Google Analytics [official documentation](https://support.google.com/analytics/).
 
 ## History
+
+* v0.0.5 October 4, 2014
+	* Fix bower usage
 
 * v0.0.4 July 1, 2014
 	* Add bower
