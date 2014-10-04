@@ -8,7 +8,7 @@ Web Component wrapper for Google Analytics code using Polymer.
 
 ## Installation
 
-### Using [Bower](http://bower.io):
+#### Using [Bower](http://bower.io):
 
 1. Run this command from your project root:
 
