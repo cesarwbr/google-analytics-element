@@ -40,6 +40,9 @@ Attribute  | Options                   | Default             | Description
 
 ## History
 
+* v0.0.6 November 19, 2014
+	* Fix bug
+
 * v0.0.5 October 4, 2014
 	* Fix bower usage
 
