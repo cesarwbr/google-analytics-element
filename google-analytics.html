@@ -1,6 +1,6 @@
 <link rel="import" href="../polymer/polymer.html">
 
-<polymer-element name="google-analytics" attributes="code domain">
+<polymer-element name="google-analytics" attributes="code domain displayFeatures">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -13,6 +13,8 @@
 				domain: 'example.com',
 				ready: function() {
 				  ga('create', this.code, this.domain);
+				  if (this.displayFeatures !== undefined)
+				  	ga('require', 'displayFeatures');
 				  ga('send', 'pageview');
 				}
 			}

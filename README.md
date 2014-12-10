@@ -34,6 +34,7 @@ Attribute  | Options                   | Default             | Description
 ---        | ---                       | ---                 | ---
 `domain`   | *string*                  | `example.com`       | Your website domain
 `code`     | *string* 				   			 | `UA-XXXXX-Y`        | Your Google Analytics tracking code
+`displayfeatures`     | *boolean* 				   			 | `false`        | Define the display features option
 
 
 > See Google Analytics [official documentation](https://support.google.com/analytics/).
