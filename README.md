@@ -34,11 +34,15 @@ Attribute  | Options                   | Default             | Description
 ---        | ---                       | ---                 | ---
 `domain`   | *string*                  | `example.com`       | Your website domain
 `code`     | *string* 				   			 | `UA-XXXXX-Y`        | Your Google Analytics tracking code
+`displayfeatures`     | *boolean* 				   			 | `false`        | Define the display features option
 
 
 > See Google Analytics [official documentation](https://support.google.com/analytics/).
 
 ## History
+
+* v0.0.7 December 10, 2014
+	* Add displayfeatures attribute
 
 * v0.0.6 November 19, 2014
 	* Fix bug
