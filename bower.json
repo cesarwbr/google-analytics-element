@@ -13,7 +13,8 @@
     "analytics",
     "google",
     "analytics",
-    "google-analytics"
+    "google-analytics",
+    "web-components"
   ],
   "license": "MIT",
   "ignore": [
