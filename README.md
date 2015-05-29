@@ -40,25 +40,7 @@ Attribute  | Options                   | Default             | Description
 
 ## History
 
-* v0.0.7 December 10, 2014
-	* Add displayfeatures attribute
-
-* v0.0.6 November 19, 2014
-	* Fix bug
-
-* v0.0.5 October 4, 2014
-	* Fix bower usage
-
-* v0.0.4 July 1, 2014
-	* Add bower
-
-* v0.0.3 August 29, 2013
-	* Changing to CDN Polymer API version
-
-* v0.0.2 August 29, 2013
-	* Changing Polymer API version and custom element name
-* v0.0.1 August 28, 2013
-	* Started project using [boilerplate-element](https://github.com/customelements/boilerplate-element)
+For detailed changelog, check [Releases](https://github.com/cesarwbr/google-analytics-element/releases).
 
 ## License
 
