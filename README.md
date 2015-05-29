@@ -25,14 +25,13 @@ Web Component wrapper for Google Analytics code using Polymer.
 3. Start using it!
 
 	```html
-	<google-analytics domain="example.com" code="UA-XXXXX-Y"></google-analytics>
+	<google-analytics code="UA-XXXXX-Y"></google-analytics>
 	```
 
 ## Options
 
 Attribute  | Options                   | Default             | Description
 ---        | ---                       | ---                 | ---
-`domain`   | *string*                  | `example.com`       | Your website domain
 `code`     | *string* 				   			 | `UA-XXXXX-Y`        | Your Google Analytics tracking code
 `displayfeatures`     | *boolean* 				   			 | `false`        | Define the display features option
 
