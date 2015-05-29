@@ -13,16 +13,21 @@ Web Component wrapper for Google Analytics code using Polymer.
 1. Run this command from your project root:
 
 	```shell
-	bower install google-analytics
+	bower install google-analytics --save
 	```
 
-2. Import the component by adding this to your HTML file:
+2. Import Web Components' polyfill:
+	```html
+	<script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
+	```
+
+3. Import the component by adding this to your HTML file:
 
 	```html
 	<link rel="import" href="bower_components/google-analytics/google-analytics.html">
 	```
 
-3. Start using it!
+4. Start using it!
 
 	```html
 	<google-analytics code="UA-XXXXX-Y"></google-analytics>
