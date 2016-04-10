@@ -38,7 +38,8 @@ Web Component wrapper for Google Analytics code using Polymer.
 Attribute  | Options                   | Default             | Description
 ---        | ---                       | ---                 | ---
 `code`     | *string* 				   			 | `UA-XXXXX-Y`        | Your Google Analytics tracking code
-`displayfeatures`     | *boolean* 				   			 | `false`        | Define the display features option
+`displayfeatures`     | *boolean* 				   			 | `false`        | Optional. Define the display features option
+`pages`     | *array* 				   			 | `[]`        | Optional. The path portion of the page URL. Should begin with '/' like this '["/sample1", "/sample2"]'
 
 
 > See Google Analytics [official documentation](https://support.google.com/analytics/).
